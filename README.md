@@ -19,6 +19,8 @@ Veja os projetos publicados:
 * **Iris Recognition - Machine Learning:** https://bit.ly/2AB85r2
 * **Wine Classification - Machine Learning:** https://bit.ly/304uIP5
 * **Consumo de Cerveja - Machine Learning:** https://bit.ly/2XycAvz
+* **Detecção do Câncer de Mama - Machine Learning:** https://bit.ly/3cCEwT1
+* **Prevendo atrasos de voos - Machine Learning:** https://bit.ly/377XdNm
 
 ---
 
