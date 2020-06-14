@@ -19,7 +19,7 @@
 
 ## Projetos de Machine Learning usando Python:
 
-* **Iris Recognition [en]:** https://bit.ly/2AB85r2
+* **Iris Recognition [en]:** https://bit.ly/2C0ckgk
 * **Wine Classification [en]:** https://bit.ly/304uIP5
 * **Consumo de Cerveja [pt]:** https://bit.ly/2XycAvz
 * **Detecção do Câncer de Mama [pt]:** https://bit.ly/3cCEwT1
