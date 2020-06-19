@@ -15,15 +15,15 @@
 
 ## Projetos de Análise de Dados usando Python:
 
-* **Análise de Dados Airbnb (Rio de Janeiro) [pt]:** https://bit.ly/3dOVnDM
+* **Análise de Dados Airbnb (Rio de Janeiro) [pt]:** https://bit.ly/3fHgAzX
 
 ## Projetos de Machine Learning usando Python:
 
-* **Iris Recognition [en]:** https://bit.ly/2C0ckgk
-* **Wine Classification [en]:** https://bit.ly/304uIP5
-* **Consumo de Cerveja [pt]:** https://bit.ly/2XycAvz
-* **Detecção do Câncer de Mama [pt]:** https://bit.ly/3cCEwT1
-* **Prevendo atrasos de voos [pt]:** https://bit.ly/377XdNm
+* **Iris Recognition [en]:** https://bit.ly/2UYznPa
+* **Wine Classification [en]:** https://bit.ly/2NcGlMj
+* **Consumo de Cerveja [pt]:** https://bit.ly/37HAcRO
+* **Detecção do Câncer de Mama [pt]:** https://bit.ly/2NatdHH
+* **Prevendo atrasos de voos [pt]:** https://bit.ly/3diichO
 ---
 
 
