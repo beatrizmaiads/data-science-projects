@@ -12,6 +12,7 @@
 * [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)
 * [Kaggle](https://www.kaggle.com/beatrizmaia)
 
+## Projetos Codenation: https://bit.ly/37ZeBEs
 
 ## Projetos de Análise de Dados usando Python:
 
