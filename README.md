@@ -20,13 +20,12 @@
 
 ## Projetos de Machine Learning usando Python:
 
+* **Titanic [pt]:** https://bit.ly/3dz0yqt
 * **Iris Recognition [en]:** https://bit.ly/2UYznPa
 * **Wine Classification [en]:** https://bit.ly/2NcGlMj
 * **Consumo de Cerveja [pt]:** https://bit.ly/37HAcRO
 * **Detecção do Câncer de Mama [pt]:** https://bit.ly/2NatdHH
 * **Prevendo atrasos de voos [pt]:** https://bit.ly/3diichO
 ---
-
-
 
 
