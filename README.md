@@ -12,7 +12,9 @@
 * [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)
 * [Kaggle](https://www.kaggle.com/beatrizmaia)
 
-## Projetos Codenation: https://bit.ly/37ZeBEs
+## Projetos Codenation: 
+
+* **Análise de Dados da Black Friday [pt]:** https://bit.ly/37ZeBEs
 
 ## Projetos de Análise de Dados usando Python:
 
@@ -20,13 +22,12 @@
 
 ## Projetos de Machine Learning usando Python:
 
+* **Titanic [pt]:** https://bit.ly/3dz0yqt
 * **Iris Recognition [en]:** https://bit.ly/2UYznPa
 * **Wine Classification [en]:** https://bit.ly/2NcGlMj
 * **Consumo de Cerveja [pt]:** https://bit.ly/37HAcRO
 * **Detecção do Câncer de Mama [pt]:** https://bit.ly/2NatdHH
 * **Prevendo atrasos de voos [pt]:** https://bit.ly/3diichO
 ---
-
-
 
 
