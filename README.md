@@ -28,6 +28,7 @@
 * **Consumo de Cerveja [pt]:** https://bit.ly/37HAcRO
 * **Detecção do Câncer de Mama [pt]:** https://bit.ly/2NatdHH
 * **Prevendo atrasos de voos [pt]:** https://bit.ly/3diichO
+* **Projeto PLN [pt]:** https://bit.ly/3fsTLQG
 ---
 
 
