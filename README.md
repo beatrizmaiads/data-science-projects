@@ -12,13 +12,10 @@
 * [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)
 * [Kaggle](https://www.kaggle.com/beatrizmaia)
 
-## Projetos Codenation: 
-
-* **Análise de Dados da Black Friday [pt]:** https://bit.ly/37ZeBEs
-
 ## Projetos de Análise de Dados usando Python:
 
 * **Análise de Dados Airbnb (Rio de Janeiro) [pt]:** https://bit.ly/3fHgAzX
+* **Análise de Dados da Black Friday [pt]:** https://bit.ly/37ZeBEs
 
 ## Projetos de Machine Learning usando Python:
 
