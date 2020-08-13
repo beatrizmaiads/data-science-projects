@@ -10,8 +10,8 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)
-* [Medium] (https://medium.com/@beatrizmaiads)
-* [Dev.to] (dev.to/beatrizmaiads)
+* [Medium](https://medium.com/@beatrizmaiads)
+* [Dev.to](https://ev.to/beatrizmaiads)
 
 ## Projetos de Análise de Dados usando Python:
 
