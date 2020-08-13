@@ -22,6 +22,7 @@
 * **Detecção de Fraudes em Cartões de Crédito [pt]:** https://bit.ly/313trqH
 * **Detecção do Câncer de Mama [pt]:** https://bit.ly/2NatdHH
 * **Prevendo atrasos de voos [pt]:** https://bit.ly/3diichO
+* **Previsão de valores de imóveis [en]:** https://bit.ly/3gUVWgP
 * **Projeto PLN [pt]:** https://bit.ly/38Ybf5m
 * **Titanic [pt]:** https://bit.ly/3dz0yqt
 * **Iris Recognition [en]:** https://bit.ly/2UYznPa
