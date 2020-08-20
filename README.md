@@ -25,6 +25,7 @@
 * **Prevendo atrasos de voos [pt]:** https://bit.ly/3diichO
 * **Previsão de valores de imóveis [en]:** https://bit.ly/3gUVWgP
 * **Projeto PLN [pt]:** https://bit.ly/38Ybf5m
+* **Classificação MNIST:** https://bit.ly/3hn0P2A
 * **Titanic [pt]:** https://bit.ly/3dz0yqt
 * **Iris Recognition [en]:** https://bit.ly/2UYznPa
 * **Wine Classification [en]:** https://bit.ly/2NcGlMj
