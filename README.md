@@ -10,7 +10,8 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/)
-* [Kaggle](https://www.kaggle.com/beatrizmaia)
+* [Medium](https://medium.com/@beatrizmaiads)
+* [Dev.to](https://ev.to/beatrizmaiads)
 
 ## Projetos de Análise de Dados usando Python:
 
@@ -22,6 +23,7 @@
 * **Detecção de Fraudes em Cartões de Crédito [pt]:** https://bit.ly/313trqH
 * **Detecção do Câncer de Mama [pt]:** https://bit.ly/2NatdHH
 * **Prevendo atrasos de voos [pt]:** https://bit.ly/3diichO
+* **Previsão de valores de imóveis [en]:** https://bit.ly/3gUVWgP
 * **Projeto PLN [pt]:** https://bit.ly/38Ybf5m
 * **Titanic [pt]:** https://bit.ly/3dz0yqt
 * **Iris Recognition [en]:** https://bit.ly/2UYznPa
