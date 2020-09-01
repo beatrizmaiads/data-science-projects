@@ -13,13 +13,9 @@
 * [Medium](https://medium.com/@beatrizmaiads)
 * [Dev.to](https://ev.to/beatrizmaiads)
 
-## Projetos de Análise de Dados usando Python:
+## Projetos de Data Science utilizando Python:
 
-* **Análise de Dados Airbnb (Rio de Janeiro) [pt]:** https://bit.ly/3fHgAzX
-* **Análise de Dados da Black Friday [pt]:** https://bit.ly/37ZeBEs
-
-## Projetos de Machine Learning usando Python:
-
+* **Modelo de Classificação para RH [pt]:** https://bit.ly/31Kzcei
 * **Detecção de Fraudes em Cartões de Crédito [pt]:** https://bit.ly/313trqH
 * **Detecção do Câncer de Mama [pt]:** https://bit.ly/2NatdHH
 * **Prevendo atrasos de voos [pt]:** https://bit.ly/3diichO
@@ -30,6 +26,8 @@
 * **Iris Recognition [en]:** https://bit.ly/2UYznPa
 * **Wine Classification [en]:** https://bit.ly/2NcGlMj
 * **Consumo de Cerveja [pt]:** https://bit.ly/37HAcRO
+* **Análise de Dados Airbnb (Rio de Janeiro) [pt]:** https://bit.ly/3fHgAzX
+* **Análise de Dados da Black Friday [pt]:** https://bit.ly/37ZeBEs
 
 ---
 
