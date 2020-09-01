@@ -27,7 +27,7 @@
 * **Wine Classification [en]:** https://bit.ly/2NcGlMj
 * **Consumo de Cerveja [pt]:** https://bit.ly/37HAcRO
 * **Análise de Dados Airbnb (Rio de Janeiro) [pt]:** https://bit.ly/3fHgAzX
-* **Análise de Dados da Black Friday [pt]:** https://bit.ly/37ZeBEs
+* **Análise de Dados da Black Friday [pt]:** https://bit.ly/3hOUX2j
 
 ---
 
