@@ -26,8 +26,11 @@
 * **Iris Recognition [en]:** https://bit.ly/2UYznPa
 * **Wine Classification [en]:** https://bit.ly/2NcGlMj
 * **Consumo de Cerveja [pt]:** https://bit.ly/37HAcRO
+
+* **Análise de Dados - Netflix [pt]:** https://bit.ly/2Uo7JL5
 * **Análise de Dados Airbnb (Rio de Janeiro) [pt]:** https://bit.ly/3fHgAzX
 * **Análise de Dados da Black Friday [pt]:** https://bit.ly/3hOUX2j
+
 
 ---
 
